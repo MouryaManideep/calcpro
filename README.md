@@ -12,5 +12,7 @@ A beginner-friendly Python package for basic arithmetic operations.
 
 ```python
 from calc import add, sub, mul
-add(2, 3)
+add(2, 3, 4......)
+sub(5,4)
+mul(5,4)
 ```
