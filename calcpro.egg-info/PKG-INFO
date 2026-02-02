@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: calcpro
+Version: 0.1.1
+Summary: A beginner-friendly calculator package
+Author: Manideep
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# CalcPro – Python Calculator Package
+
+A beginner-friendly Python package for basic arithmetic operations.
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+
+## Usage
+
+```python
+from calc import add, sub, mul
+add(2, 3, 4......)
+sub(5,4)
+mul(5,4)
+```

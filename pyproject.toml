@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "calcpro"
+version = "0.1.1"
+description = "A beginner-friendly calculator package"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+  { name = "Manideep" }
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["calc*"]
